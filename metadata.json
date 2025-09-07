@@ -1,0 +1,8 @@
+{
+  "name": "React Messenger UI",
+  "description": "A modern messaging application interface built with React and Tailwind CSS, featuring 1-on-1 and group chats, voice calling, and media sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
